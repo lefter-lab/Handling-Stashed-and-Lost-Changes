@@ -1,12 +1,6 @@
 \# Handling Stashed and Lost Changes
 
-
-
-Репозиторий с решения на 4 задачи, свързани с `git stash`, загубени промени и местене на комити.
-
-
-
-\## Структура:
+Repository with solutions to 4 problems related to git stash, lost changes, and moving commits.
 
 
 
